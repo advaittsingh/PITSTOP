@@ -1,3 +1,4 @@
+import React from 'react';
 import Hero from '../components/home/Hero';
 import BrandSection from '../components/home/BrandSection';
 import FeaturedProducts from '../components/home/FeaturedProducts';
